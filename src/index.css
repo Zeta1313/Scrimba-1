@@ -27,7 +27,7 @@ nav > img {
 }
 
 nav > span {
-    color: #61DAFB;
+    color: #fb8061;
     font-size: 1.4rem;
     font-weight: 700;
 }
@@ -52,6 +52,6 @@ main > h1 {
 }
 
 .facts-list > li::marker {
-    color: #61DAFB;
+    color: #fb8061;
     font-size: 1.5rem;
 }
