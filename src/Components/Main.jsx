@@ -1,5 +1,14 @@
 export default function Main() {
     return (
-        <h1>Main component here</h1>
+        <main>
+            <h1>Fun facts about React</h1>
+            <ul className="facts-list">
+                <li>Was released in 2013</li>
+                <li>Was created by Jordan Walke</li>
+                <li>Has over 200K stars on GitHub</li>
+                <li>Is maintained by Meta, the company behind Facebook</li>
+                <li>Powers thousands of enterprise apps, including mobile apps</li>
+            </ul>
+        </main>
     )
 }
